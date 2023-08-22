@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="button_recipes">Recipe List</string>
+    <string name="hint_recipeTitle">Recipe Title</string>
+    <string name="hint_recipeDescription">Recipe Description</string>
+    <string name="hint_recipeDetails">Recipe Ingredients and Instructions</string>
+    <string name="button_recipe_image">Add Recipe Image</string>
+    <string name="button_recipe_add">Add Recipe</string>
+    <string name="change_recipe_image">Change Recipe Image</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="enter_all_recipe_details">Enter All Recipe Ingredients and Instructions</string>
+    <string name="button_location_add">Add Location</string>
+    <string name="button_location_save">Save Location</string>
+    <string name="menu_addRecipe">Add Recipe</string>
+    <string name="menu_cancelRecipe">Cancel Recipe</string>
+    <string name="menu_deleteRecipe">Delete Recipe</string>
+    <string name="favourite_list">View Favourites</string>
+    <string name="button_choose_theme">Change Theme</string>
+    <string name="choose_theme">Choose Theme</string>
+
+    <string name="app_description">Welcome to my Recipe App. Please click the button below to begin</string>
+</resources>
